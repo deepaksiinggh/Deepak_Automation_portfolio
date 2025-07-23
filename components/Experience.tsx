@@ -7,9 +7,9 @@ const Experience = () => {
 			<div>
 				<h2 className="text-3xl sm:text-4xl font-semibold mb-3 md:mb-5">Skills</h2>
 				<div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-					{skills.map((skill) => (
+					{skills.map((skill, index) => (
 						<div
-							key={skill.name}
+							key={skill.name + index}
 							className="p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors hover:scale-105 duration-300 text-center"
 						>
 							<h3 className="font-semibold text-lg">{skill.name}</h3>
