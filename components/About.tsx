@@ -27,7 +27,7 @@ const About = () => {
 			<h1
 				className={`${cardo.className} text-xl sm:text-2xl md:text-3xl font-bold pt-5 leading-10`}
 			>
-				I&#39;m an aspiring Automation Engineer with hands-on skills in Selenium, Java, and TestNG. I’m passionate about ensuring software quality through reliable and efficient test automation.
+				I&#39;m an aspiring Automation Engineer with hands-on skills in Selenium, Java, and TestNG. I&#39;m passionate about ensuring software quality through reliable and efficient test automation.
 			</h1>
 
 			<div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-8 md:gap-16 mt-4 sm:mt-10 md:mt-12 lg:mt-16">
@@ -43,12 +43,12 @@ const About = () => {
 				<div>
 					<p className="text-lg font-normal">
 
-						I&#39;m Deepak Singh, a Computer Science graduate (B.Tech, 2024) with a strong foundation in both frontend and test automation technologies. I have hands-on knowledge of HTML, CSS, Java, TestNG, React, MySQL, GitHub, and Postman. I'm passionate about building quality-driven web applications and automated testing solutions that ensure performance, reliability, and great user experience.
+						I&#39;m Deepak Singh, a Computer Science graduate (B.Tech, 2024) with a strong foundation in both frontend and test automation technologies. I have hands-on knowledge of HTML, CSS, Java, TestNG, React, MySQL, GitHub, and Postman. I&#39;m passionate about building quality-driven web applications and automated testing solutions that ensure performance, reliability, and great user experience.
 						
 					</p>
 
 					<p className="mt-5 text-lg text-gray-500 font-normal">
-					With a strong foundation in automation testing, I specialize in understanding software requirements and developing effective test scripts to ensure product quality. I'm trained in tools like Selenium, Java, and TestNG, and I&#39;m eager to contribute to teams focused on delivering reliable and efficient software.
+					With a strong foundation in automation testing, I specialize in understanding software requirements and developing effective test scripts to ensure product quality. I&#39;m trained in tools like Selenium, Java, and TestNG, and I&#39;m eager to contribute to teams focused on delivering reliable and efficient software.
 					</p>
 				</div>
 			</div>

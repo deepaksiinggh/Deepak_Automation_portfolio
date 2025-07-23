@@ -79,7 +79,7 @@ const Footer = () => {
 								Let&#39;s Create Together
 							</h3>
 							<p className="text-gray-600 leading-relaxed">
-								I&#39;m always excited to connect with fellow testers, developers, and anyone passionate about quality engineering. Whether you have a project that needs test automation or just want to discuss testing strategies, I&#39;m open to connect and collaborate.
+								I&#39;m always excited to connect with fellow testers, developers, and anyone passionate about quality engineering. Whether you have a project that needs test automation or just want to discuss testing strategies, I&#39;m open to connecting and collaborating.
 							</p>
 							<div className="flex flex-wrap gap-3">
 								{socials.map((social) => (

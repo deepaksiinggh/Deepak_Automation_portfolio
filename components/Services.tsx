@@ -22,7 +22,7 @@ const Services = () => {
 
 					<div className="ml-12">
 						<p className="text-md font-normal mt-1 text-gray-600 max-w-[300px]">
-							If you're looking for someone to design and implement effective test automation solutions, I&#39;m an enthusiastic automation developer ready to ensure your application&#39;s quality and reliability with precision and commitment.
+							I specialize in designing and implementing effective test automation solutions. From building scalable test frameworks to ensuring reliable execution, I bring precision, efficiency, and a passion for quality to every project.
 						</p>
 					</div>
 				</div>
@@ -35,9 +35,7 @@ const Services = () => {
 
 					<div className="ml-12">
 						<p className="text-md font-normal mt-1 text-gray-600 max-w-[300px]">
-							If you&#39;re looking for a developer to handle the research and
-							development of your website, I am a seasoned professional ready to
-							bring your vision to life with expertise and dedication.
+							Whether you&#39;re starting from scratch or need enhancements to an existing site, I can turn your ideas into functional, user-friendly web applications using modern tools and clean code practices.
 						</p>
 					</div>
 				</div>
