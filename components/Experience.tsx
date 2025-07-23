@@ -1,4 +1,4 @@
-import { experiences, skills } from "@/data/experience";
+import { skills } from "@/data/experience";
 
 const Experience = () => {
 	return (

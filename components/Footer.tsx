@@ -16,7 +16,6 @@ const Footer = () => {
 	const scrollToSection = (id: string) => {
 		const element = document.getElementById(id);
 		if (element) {
-			// Immediately set active and clicked section
 			setActiveSection(id);
 			setClickedSection(id);
 
@@ -28,7 +27,6 @@ const Footer = () => {
 				behavior: "smooth",
 			});
 
-			// Clear clicked section after scroll animation (roughly 1 second)
 			setTimeout(() => {
 				setClickedSection("");
 			}, 1000);
