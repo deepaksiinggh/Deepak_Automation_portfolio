@@ -36,7 +36,7 @@ const Hero = () => {
 					<div className="space-y-2 pt-1">
 						<div className="flex items-center space-x-2">
 							<p className="text-lg text-gray-600 max-w-[500px]">
-								I’m an Automation Engineer who builds reliable test automation systems that help teams deliver faster, safer, and smarter software.
+								I&#39;m an Automation Engineer who builds reliable test automation systems that help teams deliver faster, safer, and smarter software.
 							</p>
 						</div>
 

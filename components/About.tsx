@@ -43,12 +43,12 @@ const About = () => {
 				<div>
 					<p className="text-lg font-normal">
 
-						I'm Deepak Singh, a Computer Science graduate (B.Tech, 2024) with a strong foundation in both frontend and test automation technologies. I have hands-on knowledge of HTML, CSS, Java, TestNG, React, MySQL, GitHub, and Postman. I'm passionate about building quality-driven web applications and automated testing solutions that ensure performance, reliability, and great user experience.
+						I&#39;m Deepak Singh, a Computer Science graduate (B.Tech, 2024) with a strong foundation in both frontend and test automation technologies. I have hands-on knowledge of HTML, CSS, Java, TestNG, React, MySQL, GitHub, and Postman. I'm passionate about building quality-driven web applications and automated testing solutions that ensure performance, reliability, and great user experience.
 						
 					</p>
 
 					<p className="mt-5 text-lg text-gray-500 font-normal">
-					With a strong foundation in automation testing, I specialize in understanding software requirements and developing effective test scripts to ensure product quality. I'm trained in tools like Selenium, Java, and TestNG, and I’m eager to contribute to teams focused on delivering reliable and efficient software.
+					With a strong foundation in automation testing, I specialize in understanding software requirements and developing effective test scripts to ensure product quality. I'm trained in tools like Selenium, Java, and TestNG, and I&#39;m eager to contribute to teams focused on delivering reliable and efficient software.
 					</p>
 				</div>
 			</div>
