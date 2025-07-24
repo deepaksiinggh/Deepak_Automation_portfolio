@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description: 
 "Welcome to Deepak's portfolio. Explore projects and skills of a passionate Automation developer.",
 icons: {
-  icon: '/favicon.png',
+  icon: '/images/favicon.png' ,
 },
 
 };

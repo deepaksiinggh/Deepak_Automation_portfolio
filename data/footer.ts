@@ -20,7 +20,7 @@ export const links: Links[] = [
 	{ name: "Contact", id: "contact", isExternal: false },
 	{
 		name: "Resume",
-		id: "https://drive.google.com/file/d/1TiES4-Klm9nzXPImviYQbSZ2HdBOyJD-/view?usp=drive_link",
+		id: "https://drive.google.com/file/d/1W9DqxD5y0fhI9mCOG3uFLDM5DUSi41q3/view?usp=sharing",
 		isExternal: true,
 	},
 	{ name: "Skills", id: "skills", isExternal: false },

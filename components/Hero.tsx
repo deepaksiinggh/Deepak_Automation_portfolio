@@ -56,6 +56,14 @@ const Hero = () => {
 							<Link href="mailto:deepakssinggh@gmail.com">
 								<IoMdMail size={20} />
 							</Link>
+							<Link
+      href="https://drive.google.com/file/d/1W9DqxD5y0fhI9mCOG3uFLDM5DUSi41q3/view?usp=sharing"
+      target="_blank"
+    >
+      <h1 className="inline-block bg-indigo-600 text-white px-6 py-2 rounded-xl shadow-lg font-semibold text-lg hover:bg-indigo-700 hover:scale-105 transition-transform duration-300">
+        Resume
+      </h1>
+    </Link>
 						</div>
 					</div>
 				</div>
