@@ -36,7 +36,7 @@ export const projects: Project[] = [
   "• Performed scrolling and calendar (date picker) automation\n" +
   "• Covered all basic to tricky Selenium tasks in one project",
 	
-	github: "https://github.com/deepaksiinggh/OpenCart_Project",
+	github: "https://github.com/deepaksiinggh/Qspider-demo",
 	tags: ["Selenium", "TestNg", "Java"],
 },
 
@@ -45,7 +45,7 @@ export const projects: Project[] = [
 		image: "/images/passwordgenerator.png",
 		description:"This automation project tests a password generator tool by verifying that generated passwords match selected options like uppercase, lowercase, numbers, and symbols. It checks password length, clipboard copy, and dynamic UI behavior to ensure correct and secure functionality."
 			,
-		github: "https://github.com/deepaksiinggh/OpenCart_Project",
+		github: "https://github.com/deepaksiinggh/Password-generator",
 		tags: ["Selenium", "TestNg", "Java"],
 	},
 ];
