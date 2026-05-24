@@ -45,7 +45,7 @@ export const socials: Socials[] = [
 	},
 	{
 		icon: Linkedin,
-		href: "https://www.linkedin.com/in/deepak-singh-28b33b271/",
+		href: "https://www.linkedin.com/in/deepak-singh-3b504a22a/",
 		label: "LinkedIn",
 	},
 ];
