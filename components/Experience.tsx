@@ -9,7 +9,7 @@ const ACCENTS = ["#FF6B6B", "#FFD93D", "#9B5DE5", "#4D96FF", "#6BCB77", "#FF6B6B
 const Experience = () => {
   const [mounted, setMounted]     = useState(false);
   const [visible, setVisible]     = useState(false);
-  const [hovered, setHovered] = useState<number | null>(null);
+  const [, setHovered] = useState<number | null>(null);
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
