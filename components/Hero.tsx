@@ -376,7 +376,7 @@ const Hero = () => {
             </p>
 
             <div className={`tags fade-up delay-3 ${mounted ? "visible" : ""}`}>
-              {["Selenium", "Playwright", "Cypress", "CI/CD", "Python", "TypeScript"].map((t) => (
+              {["Selenium","Java", "Playwright", "Java-script", "CI/CD", "Testng", "TypeScript","Github","Postman"].map((t) => (
                 <span key={t} className="tag">{t}</span>
               ))}
             </div>
