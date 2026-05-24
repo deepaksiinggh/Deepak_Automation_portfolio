@@ -11,6 +11,7 @@ interface Experience {
 
 export const skills: Skill[] = [
 	{ name: "Java" },
+	{ name: "Playwright" },
 	{ name: "Selenium" },
 	{ name: "TestNG" },
 	{ name: "PostMan" },
@@ -18,6 +19,7 @@ export const skills: Skill[] = [
 	{ name: "JavaScript" },
 	{ name: "HTML/CSS" },
 	{ name: "Git" },
+	{ name: "Sql" },
 	{ name: "Docker" },
 ];
 
