@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
 import { Barlow_Semi_Condensed } from 'next/font/google'
-import "./globals.css";
-
 
 const barlowSemiCondensed = Barlow_Semi_Condensed({
   subsets: ['latin'],
@@ -11,12 +9,36 @@ const barlowSemiCondensed = Barlow_Semi_Condensed({
 
 export const metadata: Metadata = {
   title: "Deepak Singh | Automation Developer",
-  description: 
-"Welcome to Deepak's portfolio. Explore projects and skills of a passionate Automation developer.",
-icons: {
-  icon: '/images/favicon.png' ,
-},
+  description: "Welcome to Deepak's portfolio. Explore projects and skills of a passionate Automation developer.",
+  icons: {
+    icon: '/images/favicon.png',
+  },
 
+  openGraph: {
+    title: "Deepak Singh – QA Automation Portfolio",
+    description: "QA Automation Engineer skilled in Java, Selenium, Playwright, API Testing, TestNG, Postman, SQL, and Automation Framework Development.",
+    url: "https://deepak-automation-portfolio.vercel.app",
+    siteName: "Deepak Singh Portfolio",
+    images: [
+      {
+        url: "https://deepak-automation-portfolio.vercel.app/thumbnail.png",
+        width: 1200,
+        height: 630,
+        alt: "Deepak Singh QA Automation Portfolio",
+      },
+    ],
+    type: "website",
+    locale: "en_US",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Deepak Singh – QA Automation Portfolio",
+    description: "QA Automation Engineer skilled in Java, Selenium, Playwright, API Testing, TestNG, Postman, SQL, and Automation Framework Development.",
+    images: ["https://deepak-automation-portfolio.vercel.app/thumbnail.png"],
+  },
+
+  metadataBase: new URL("https://deepak-automation-portfolio.vercel.app"),
 };
 
 export default function RootLayout({
@@ -26,9 +48,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={barlowSemiCondensed.className}
-      >
+      <body className={barlowSemiCondensed.className}>
         {children}
       </body>
     </html>
