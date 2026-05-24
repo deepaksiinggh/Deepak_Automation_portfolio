@@ -13,7 +13,9 @@ export const metadata: Metadata = {
   icons: {
     icon: '/images/favicon.png',
   },
-
+ verification: {
+    google: "o9WajoQ7J5PUc2EaxWvRk9SelGHobgM-AKK-8ZfTE7w"
+  },
   openGraph: {
     title: "Deepak Singh – QA Automation Portfolio",
     description: "QA Automation Engineer skilled in Java, Selenium, Playwright, API Testing, TestNG, Postman, SQL, and Automation Framework Development.",
