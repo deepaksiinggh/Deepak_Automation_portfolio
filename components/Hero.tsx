@@ -10,7 +10,7 @@ import Image from "next/image";
 
 const Hero = () => {
   const [mounted, setMounted] = useState(false);
-  const blobRef = useRef<HTMLDivElement>(null);
+  // const blobRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     setMounted(true);
